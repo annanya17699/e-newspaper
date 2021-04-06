@@ -42,7 +42,7 @@ header h1{
     font-size: 50px;
 }
 
-.maindiv:after{
+.maindiv::after{
     content: "";
     display: table;
     clear: both;
